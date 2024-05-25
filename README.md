@@ -6,13 +6,13 @@ This repository contains the source code and resources for an Agricultural Irrig
 
 Features
 
-Automated irrigation based on programmed timer
-Efficient water management to conserve resources
+Automated irrigation based on software timer and scheduler.
+Efficient water management to conserve resources.
 
 Project Structure
 
 final_project/: Contains the main source code and configuration files.
-final project.png: Diagram or visual representation of the project setup.
+final project.png: Simple visual representation of the circuit.
 
 Contact
 
